@@ -1,0 +1,127 @@
+body {
+    background-color: orange;
+}
+
+div.azul {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+   
+}
+
+nav {
+    text-align: center;
+}
+
+img.foto1 {
+    height: 200px;
+    width: 280px;
+    float: left;
+    position: relative;
+    top: 20px;
+}
+
+div.texto{
+ 
+    color: blue;
+    background-color: white;
+ 
+}
+
+div.azul2{
+    background-color: blue;
+    color: blue;
+}
+
+div.azul3 {
+    background-color: blue;
+    color: blue;
+}
+
+div.blanco {
+    background-color: white;
+    height: 320px;
+   width: 100%;
+}
+
+
+div.ordenador{
+    background-color: lightblue;
+    width: 100%;
+    height: 250px;
+}
+
+img.ordenador1 {
+    position: relative;
+    right: -200px;
+}
+
+h2.rojo {
+    background-color: red;
+    color: red;
+}
+
+div.rojo {
+    background-color: red;
+    color: red;
+}
+
+hr {
+    color: black;
+    background-color: black;
+    height: 1px;
+}
+
+footer {
+    text-align: center;
+}
+
+div.footer {
+    background-color: rgb(202, 112, 70);
+}
+
+span.subrayado {
+    background-color: yellow;
+}
+
+span.encima {
+    text-decoration: line-through;
+}
+
+img.fotoor {
+    float: right;
+    margin-top: -49px;
+}
+
+table {
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid red;
+    width: 1300px;
+}
+
+td.blanco {
+    color: white;
+    width: 80px;
+    border: 1px solid blue;
+}
+
+thead {
+    text-align: center;
+}
+
+p.tabla {
+    text-align: center;
+    font-weight: bolder;
+}
+
+td.borde {
+    border: 1px solid blue;
+}
+
+
+
